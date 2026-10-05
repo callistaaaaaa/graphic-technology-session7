@@ -61,16 +61,4 @@ I'm a developer and educator who loves building beautiful, immersive web experie
 *© 2026 Calandra Alencia Haryani*
 
 </div>
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calandra@example.com)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8d0ca,50:c9ded9,100:d4e5e1&height=120&section=footer" width="100%"/>
-
-*© 2026 Calandra Alencia Haryani*
-
-</div>
