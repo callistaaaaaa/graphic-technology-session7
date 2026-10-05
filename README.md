@@ -123,3 +123,82 @@ Proyek ini dibuat untuk keperluan portfolio pribadi.
 <sub>Made with 💚 by <strong>Calandra Alencia Haryani</strong></sub>
 
 </div>
+
+</div>
+
+---
+
+## 🗂️ Struktur Proyek
+
+```
+📁 workshop/
+│
+├── 📄 index.html              # Halaman utama portfolio
+│
+└── 📁 asset/
+    ├── 📁 css/
+    │   ├── style.css          # Stylesheet utama (neumorphism + claymorphism)
+    │   └── style2.css         # Stylesheet tambahan
+    ├── 📁 js/
+    │   └── script.js          # Logic: canvas, drag, slider, typing
+    └── 📁 image/
+        ├── favicon.png        # Ikon tab browser
+        ├── char-center.png    # Karakter ilustrasi hero
+        └── lanyard.png        # Gambar ID card lanyard
+```
+
+---
+
+
+## 🧩 Sections
+
+```
+🏠 HOME      →  Hero dengan matrix canvas + karakter ilustrasi
+👤 ABOUT     →  Draggable lanyard card, experience & education
+📁 PROJECTS  →  Slider galeri proyek interaktif
+📬 CONTACT   →  CTA amplop + floating WhatsApp button
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-Struktur%20Semantik-00e5a0?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Claymorphism%20%26%20Neumorphism-0072ff?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Canvas%20%26%20Interaction-00c6ff?style=flat-square&logo=javascript&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome%206-Icon%20Library-00e5a0?style=flat-square&logo=fontawesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Montserrat%20%26%20Nunito-0072ff?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Kontak
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20Email-calandra%40example.com-00c6ff?style=for-the-badge)](mailto:calandra@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0072ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calandra)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-00e5a0?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/calandra)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-00c6ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
+
+</div>
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dibuat untuk keperluan portfolio pribadi.
+© 2026 **Calandra Alencia Haryani** — All rights reserved.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00e5a0,100:00c6ff&height=100&section=footer" width="100%"/>
+
+<sub>Made with 💚 by <strong>Calandra Alencia Haryani</strong></sub>
+
+</div>
