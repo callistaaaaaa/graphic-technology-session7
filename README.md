@@ -77,37 +77,6 @@ workshop/
 - **Font Awesome 6** — Icon library
 - **Google Fonts** — Montserrat & Nunito
 
----
-
-## 🚀 Cara Deploy ke GitHub Pages
-
-1. **Clone / Fork** repository ini
-   \`\`\`bash
-   git clone https://github.com/username/username.github.io.git
-   \`\`\`
-
-2. **Salin file** ke dalam folder repository
-   \`\`\`bash
-   cp -r workshop/* username.github.io/
-   \`\`\`
-
-3. **Push** ke GitHub
-   \`\`\`bash
-   git add .
-   git commit -m "🚀 Deploy portfolio"
-   git push origin main
-   \`\`\`
-
-4. **Aktifkan GitHub Pages**
-   - Buka repository di GitHub
-   - Masuk ke **Settings → Pages**
-   - Set source ke branch `main`, folder `/ (root)`
-   - Klik **Save**
-
-5. 🎉 Website akan live di: `https://username.github.io`
-
----
-
 ## 📬 Kontak
 
 <div align="center">
