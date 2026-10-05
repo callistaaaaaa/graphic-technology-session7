@@ -77,6 +77,8 @@ workshop/
 - **Font Awesome 6** — Icon library
 - **Google Fonts** — Montserrat & Nunito
 
+---
+
 ## 📬 Kontak
 
 <div align="center">
