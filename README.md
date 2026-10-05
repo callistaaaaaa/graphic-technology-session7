@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:00e5a0,100:0072ff&height=200&section=header&text=Calandra%20Alencia%20Haryani&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20Web%20Designer&descAlignY=60&descColor=c0fff0&animation=fadeIn" width="100%"/>
 
-[![GitHub Pages](https://img.shields.io/badge/🌐%20Live%20Demo-GitHub%20Pages-00c6ff?style=for-the-badge&logoColor=white)](https://calandra.github.io)
+[![GitHub Pages](https://img.shields.io/badge/🌐%20Live%20Demo-GitHub%20Pages-00c6ff?style=for-the-badge&logoColor=white)](https://callistaaaaaa.github.io/graphic-technology-session7/)
 [![HTML5](https://img.shields.io/badge/HTML5-00e5a0?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-0072ff?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-00c6ff?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-🔗 **[→ Kunjungi Portfolio ←](https://calandra.github.io)**
+🔗 **[→ Kunjungi Portfolio ←](https://callistaaaaaa.github.io/graphic-technology-session7/)**
 
 </div>
 
