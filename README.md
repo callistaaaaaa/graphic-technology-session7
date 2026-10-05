@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4e5e1,50:c9ded9,100:b8d0ca&height=220&section=header&text=Calandra%20Alencia%20Haryani&fontSize=38&fontColor=3c4b48&fontAlignY=40&desc=Creative%20Developer%20%7C%20Web%20Designer&descAlignY=60&descColor=4b6761&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4e5e1,50:c9ded9,100:b8d0ca&height=220&section=header&text=Calandra%20Alencia%20Haryani&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Creative%20Developer%20%7C%20Web%20Designer&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -48,6 +48,19 @@ I'm a developer and educator who loves building beautiful, immersive web experie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calandra)&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/calandra)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calandra@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8d0ca,50:c9ded9,100:d4e5e1&height=120&section=footer" width="100%"/>
+
+*© 2026 Calandra Alencia Haryani*
+
+</div>
 [![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calandra@example.com)
 
 </div>
